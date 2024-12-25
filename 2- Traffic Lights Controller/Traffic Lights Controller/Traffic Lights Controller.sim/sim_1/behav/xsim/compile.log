@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/alper/Desktop/Notepad++/100 BASIC PROCEJTS/2- Traffic Lights Controller/traffic_lights_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'traffic_lights_controller'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/alper/Desktop/Notepad++/100 BASIC PROCEJTS/2- Traffic Lights Controller/Traffic Lights Controller/Traffic Lights Controller.srcs/sim_1/new/tb_traffic_lights_controller.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_traffic_lights_controller'
